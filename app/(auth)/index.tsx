@@ -70,7 +70,7 @@ export default function SignInScreen() {
       <View className="mt-6 items-center">
         <Text>
           Don’t have an account?{' '}
-          <Link href="/(auth)/sign-up" className="font-semibold text-blue-600">
+          <Link href="/(auth)/signUp" className="font-semibold text-blue-600">
             Sign Up
           </Link>
         </Text>
